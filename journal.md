@@ -23,4 +23,6 @@ Damn that was fast, I'm done with all the routing rn. I didnt add the connector 
 ![image](https://github.com/user-attachments/assets/210f1269-7382-440f-b3f8-4c3575dd3d14)
 ![image](https://github.com/user-attachments/assets/cf6176e2-c142-499a-b543-5770d85db7c5)
 
-**Total time spent: 45mins**
+Edit/Update: I ain't adding the keypad for now because I want this to be user friendly so for now no numpad, sorry!
+
+**Total time spent: 55mins**
