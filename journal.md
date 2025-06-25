@@ -16,3 +16,11 @@ Hi! I'm back with a new project, while my keyboard is being reviewed and other p
 I made the schematic based off of Raspberry Pi's design files to minimize errors. Rlly excited for this bc my old Microsoft Account got hacked and I lost minecraft :(
 
 **Total time spent: 3.5hrs**
+
+## June 25th - Log 2: Done with the routing
+Damn that was fast, I'm done with all the routing rn. I didnt add the connector yet for the keypad becuase I think that will need another MCU on the keypad, I'll see what to do for the keypad and then do that too, I think this is gonna be done by today becuase I'm already done with 99% of the PCB and Schematic lol.
+
+![image](https://github.com/user-attachments/assets/210f1269-7382-440f-b3f8-4c3575dd3d14)
+![image](https://github.com/user-attachments/assets/cf6176e2-c142-499a-b543-5770d85db7c5)
+
+**Total time spent: 45mins**
