@@ -26,3 +26,12 @@ Damn that was fast, I'm done with all the routing rn. I didnt add the connector 
 Edit/Update: I ain't adding the keypad for now because I want this to be user friendly so for now no numpad, sorry!
 
 **Total time spent: 55mins**
+
+# June 26th: Making the component models
+
+Damn that took a long time and I didn't even make the case yet, I had to asign all the 3D Models to the PCB so I can make a proper case, for some components I had to make the 3D Models myself! Which took a veryyy long time, now I'll finally start the enclosure in Fusion 260.
+
+![image](https://github.com/user-attachments/assets/28f55580-e893-436a-83c6-4cabfbc63836)
+![image](https://github.com/user-attachments/assets/7e829559-e995-4e48-9c6b-178fe0a6f1a9)
+
+**Total time spent: 7hrs**
