@@ -35,3 +35,27 @@ Damn that took a long time and I didn't even make the case yet, I had to asign a
 ![image](https://github.com/user-attachments/assets/7e829559-e995-4e48-9c6b-178fe0a6f1a9)
 
 **Total time spent: 7hrs**
+
+## June 29th: This dosen't feel like a hobby it feels like child labor
+
+I am almost done with my case, I have litarally been working for 3 days straight no sleep, worked over 30 iterations and finaly came to one I like and actually fits the PCBs Screw Holes, I had to modify my PCB to have larger holes because I'm not screwing it in, instead it will go through the parts where I'll screw, and sit on standoffs, everything is one model so no external hardware needed except for Self Tapping screws, why slef tapping? Because I'm screwing them directly into the print, I was also thinking of like maybe a acrylic see through top for the RGB LED, it would look very good. Now I just need to do the finishing touches (I dont get paid enough for this, I'll just be getting $50 which is too low of a budget aghhhhh)
+
+![image](https://github.com/user-attachments/assets/34cee6e0-0785-4244-b785-587a1ac32976)
+![image](https://github.com/user-attachments/assets/b0130fb4-98e4-4d1e-938c-9ad3c8c43cce)
+![image](https://github.com/user-attachments/assets/5e72a885-fc39-466d-a733-8a7264541660)
+![image](https://github.com/user-attachments/assets/f7f2d0d6-a82d-4b00-8a75-12067f5b2f19)
+![image](https://github.com/user-attachments/assets/921fda71-2948-4f58-9bd5-9ad1941c4be9)
+![image](https://github.com/user-attachments/assets/a4bc256e-9dc3-46e7-8b30-5437b5dcef58)
+
+
+**Total time spent: 3 days straight minus food breaks and other stuff = 67hrs**
+
+## June 29th - Log 2: Done!
+
+The sun is rising as I'm done with the case! Like actually it's sunrise, so I uhh have added all the finishing touches and everything. Everything fits properly and it looks good. But the buttons dont have any caps on them so u need to put ur finger through to press them, now I'll just upload all relevant files and submit in a bit.
+
+![image](https://github.com/user-attachments/assets/ef72c663-be4c-464b-b730-4c871eb9c39c)
+![image](https://github.com/user-attachments/assets/8287e58c-5dbe-4e82-a8e6-eacdede7b88d)
+![image](https://github.com/user-attachments/assets/7bd6b2bf-aa7e-4cf0-905f-abb39de4c876)
+
+**Total time psent: 1-2hrs**
