@@ -48,7 +48,7 @@ Features:
 
 ## Additional Stuff
 - PCB
-- Enclosure (3D Printed Case and Acrlic Top)
+- Enclosure (3D Printed Case and Acrylic Top)
 - Screws
-- PCBA Costs - I'll need PCBA unless if I can buy a hotplate with my stuff as I don't own one, buying a hotplate would be cheaper)
+- PCBA Costs - I'll need PCBA unless if I can buy a hotplate with my stuff as I don't own one, ying a hotplate would be cheaper)
 - SMT Stencil/Solder Paste (if using hotplate)
