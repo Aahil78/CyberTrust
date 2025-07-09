@@ -47,7 +47,7 @@ Features:
 | 27                | R7, R8                               | 0402                                                | C25100      | 2        | $ 0.06      |
 
 ## Additional Stuff
-- PCB
-- Enclosure (3D Printed Case and Acrylic Top)
-- Screws
-- PCBA Costs
+- PCB - $4.2
+- Enclosure (3D Printed Case and Top) - Bottom: $10.89, Top(Transparent Resin): $14.40
+- Screws - $0.132
+- PCBA Costs - $86.78
