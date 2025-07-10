@@ -50,4 +50,4 @@ Features:
 - PCB - $4.2
 - Enclosure (3D Printed Case and Top) - Bottom: $10.89, Top(Transparent Resin): $14.40
 - Screws - $0.132
-- PCBA Costs - $86.78
+- PCBA Costs - $60.66 (I need to solder RGBs, MOQ: 5, Total Cost: $0.41)
